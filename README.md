@@ -1,6 +1,6 @@
 # Hello, I'm Manfred
-<a href="www.linkedin.com/in/manfredkollie"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/manfredkollie" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 I am a graduate student with a profound interest in reverse engineering and a dedication to solving complex problems.
 
 ## Objective
